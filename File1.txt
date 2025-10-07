@@ -2,3 +2,7 @@ Test File
 
 Another one
 And another one.
+Add line >> File1.txt
+
+cat File1.txt
+echo Add line
