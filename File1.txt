@@ -3,3 +3,4 @@ Test File
 Another one
 And another one.
 Add line
+new branch line
